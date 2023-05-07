@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/department-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/department-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/employee-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/employee-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eren.net.employee-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/eren.net.employee-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/microservice_04_12_2023.iml" filepath="$PROJECT_DIR$/.idea/microservice_04_12_2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/net.eren.department-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/net.eren.department-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/net.eren.organization-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/net.eren.organization-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/organization-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/organization-service.main.iml" />
+    </modules>
+  </component>
+</project>
